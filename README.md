@@ -1,5 +1,5 @@
 👋 Hi, I’m @falvia, embedded software engineer. \
-👀 I’m interested in embedded systems world and software in general.
+👀 I’m interested in embedded systems world and software in general. \
 ✨ I like to travel, paint, going into nature and listen to music.
 
 <!---
